@@ -15,6 +15,10 @@ git status
  git checkout -b branch 
  git checkout branch
  git merge
+
+ git reset --mixed ( to file to working directory)
+ git reset --soft ( to file to state stategin area)
+ git reset --hard ( delete file commit )
 */ 
 
 function Mouse(){
