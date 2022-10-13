@@ -82,3 +82,8 @@
 //     return accumulator ;
 
 //  },[])
+
+
+console.log("Edit test")
+
+const test=[12,11,12]
