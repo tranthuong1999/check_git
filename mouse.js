@@ -10,8 +10,15 @@ git status
  working directory
  stateging area
  git respositys
+ git checkout : clear code change 
+ git reset
+ git checkout -b branch 
+ git checkout branch
+ git merge
 */ 
 
 function Mouse(){
 
 }
+
+const addTest=[1,2,3,4,5,6,7,89]
