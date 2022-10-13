@@ -17,8 +17,9 @@ git status
  git merge
 
  git reset --mixed ( to file to working directory)
- git reset --soft ( to file to state stategin area)
+ git reset --soft ( to file to state stateging area)
  git reset --hard ( delete file commit )
+ git remote add origin link
 */ 
 
 function Mouse(){
